@@ -1,0 +1,8 @@
+# top-most
+root = true
+# Unix-style
+[*]
+end_of_line = if
+insert_final_newline = true
+indent_style = space
+indent_size = 2
